@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis Project
+# Walmart Sales Data Analysis Project (SQL + Power BI)
 
 ## 📊 Project Overview
 
@@ -8,6 +8,8 @@ This project analyzes Walmart sales data using SQL Server Management Studio (SSM
 - Perform sales, profit, and operational analysis using SQL queries.
 - Visualize insights through an interactive Power BI dashboard.
 - Identify top-performing products, customer segments, and regional trends.
+  
+<img src="Screenshots/1.png" alt="Screenshot 4" width="1100"/>
 
 
 ## 📁 Data Sources
@@ -66,13 +68,11 @@ These Excel files were imported into SQL Server for structured querying.
 
 ## 📷 Screenshots
 
-![Screenshot 1](Screenshots/4.png)
+<img src="Screenshots/4.png" alt="Dashboard Overview" width="1100"/>
 
 ![Screenshot 2](Screenshots/3.png)
 
-![Screenshot 3](Screenshots/5.png)
-
-![Screenshot 4](Screenshots/1.png)
+<img src="Screenshots/5.png" alt="Top 10 Products by Profitability" width="1100"/>
 
 ![Screenshot 5](Screenshots/2.png)
 
