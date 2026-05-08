@@ -82,4 +82,4 @@ These Excel files were imported into SQL Server for structured querying.
 - Technology category leads in both sales and profit.
 - Corporate and Consumer segments drive major sales.
 - Certain products consistently report negative profits, indicating potential pricing or discounting issues.
-- Average shipping turnaround time is [insert your calculated value] days.
+- Average shipping turnaround time is 4.1 days.
